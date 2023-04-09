@@ -1,4 +1,4 @@
-# JWT, Spring Security, Spring Data JPA, Spring MVC를 이용한 Fake Shop API만들기
+# JWT, Spring Security, Spring Data JPA, Spring MVC를 이용한 Fake Shop API만들기 - 연습!
 
 
 ## role테이블에 다음의 정보를 미리 insert해야 합니다. (Spring Boot 애플리케이션이 실행될때 자동으로 추가되도록 수정됨)
